@@ -4,7 +4,7 @@ Hi 👋 My name is Salmannn
 Beginner in IT
 --------------
 
-Love to code in Java and learned some technologies like Salesforce,Dell Boomi, Azure Admin, Some AWS, Machine Learning & Good with the html css bootstrap part currently learning Django and JS. Binge aniime watcher
+Love to code in Java and learned some technologies like Salesforce,Dell Boomi, Azure Admin, Some AWS, Machine Learning & Good with the html css bootstrap part. Currently learning Django and JS. Binge aniime watcher
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [salmankevin272@gmail.com](mailto:salmankevin272@gmail.com)
